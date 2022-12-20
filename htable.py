@@ -1,5 +1,9 @@
 
 
+#Author: Md.Fazlul Hoque
+#Source: Stackoverflow and answered by the author
+#Source link: https://stackoverflow.com/questions/68249881/why-read-html-from-python-pandas-not-working/68250007#68250007
+
 
 import pandas as pd
 import requests
